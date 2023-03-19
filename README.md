@@ -20,16 +20,16 @@ The code reads the `WHRData2021.csv` file, which contains the data of the report
 -Performing linear regression on selected features
 -Creating box plots to analyze the relationship between institutional trust and female head of government
 
-##Installation
+## Installation
 To run the code, you need to have Python 3 and the required libraries installed on your machine. To install the libraries, you can use the following command:
 ```bash
 pip install numpy pandas matplotlib seaborn plotly scikit-learn
 
 ```
-##Usage
+## Usage
 To use the code, simply clone the repository and run the `WHRData2021.ipynb` notebook in Jupyter Notebook or any other Python environment of your choice.
 
-##Contributing
+## Contributing
 If you find any issues with the code or have any suggestions for improvement, feel free to open an issue or submit a pull request.
 
 
